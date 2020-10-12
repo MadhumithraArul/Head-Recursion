@@ -1,4 +1,4 @@
-# My-CodePad
+# Head Recursion:Recursion before Logic
 #printing 1 to n if n is odd or printing 2 to n if n is even using recursion
 #include<stdio.h>
 
